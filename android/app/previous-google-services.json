@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914734001467",
+    "project_id": "datingapp-dd2b9",
+    "storage_bucket": "datingapp-dd2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914734001467:android:42426d9ee528682f049b1e",
+        "android_client_info": {
+          "package_name": "com.threeinnn.coonec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914734001467-6i5hel754oqvpcp31sqggr258d4tv9sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threeinnn.coonec",
+            "certificate_hash": "dcc84dfe1ce23a59b4cf09bd66e822607fb32c95"
+          }
+        },
+        {
+          "client_id": "914734001467-ecji86ul146qogna7cc2kft9mgnc5rlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ltMqey63t42ODU6-v5tWySZdsk1GiRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914734001467-ecji86ul146qogna7cc2kft9mgnc5rlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

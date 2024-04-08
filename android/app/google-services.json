@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242260126293",
+    "project_id": "coonec-cac16",
+    "storage_bucket": "coonec-cac16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242260126293:android:6064d201d23f02b9ad42dc",
+        "android_client_info": {
+          "package_name": "com.threeinnn.coonec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242260126293-d89r8niuo8c6bqneerh8drt728vpdlji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oiRLrRfRDAECg9rpbVMkqimw4m5ja-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242260126293-d89r8niuo8c6bqneerh8drt728vpdlji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

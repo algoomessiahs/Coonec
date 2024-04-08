@@ -1,0 +1,34 @@
+Flow example, if normal user spend 1000 coocoin, 60% will be credit to company and 40% will be credit to live streamer, 40% of 1000 coocoin = 400 coocoin = live streamer will receive 40 beancoin, when live streamer withdraw 40 beancoin, a 10% service fee will be charge when live streamer withdraw
+
+coocoin
+- Normal user to purchase by RM
+- Can be use to purchase gift for live streamer
+- If Normal user wants to dispute, Normal user would need to request refund via a refund button in their wallet setting screen
+
+beancoin
+- When normal user use coocoin buy gift to live steamer, live streamer will receive beancoin
+- Live streamer will be able to withdraw beancoin to RM (request withdrawal screen)
+- Normal user will be able to earn beancoin via reward of mission.
+- Limit withdrawal and service charge % when do withdrawal beancoin to RM
+
+Conversion/ Exchange rate of coocoin vs beancoin, A exchange rate screen to control below:
+- RM to Coocoin
+- Coocoin to Beancoin
+- Coocoin = RM value
+- Beancoin = RM value
+
+1. Payment - ipay88
+2. wallet (coocoin and beancoin) - to show beancoin and coocoin
+3. withdrawal features - 10% service fee when user request for withdrawal, admin able to change the service fee.
+4. Referral - Refer and share friends
+5. UIUX - basic enhancement
+6. Credit purchase & coin rate control - buy coocoin and admin able to change the exchange rate between ringgit malaysia to coocoin and coocoin to beancoin and beancoin to ringgit malaysia.
+7. Popularity - push up livestreamer
+8. Live streaming
+9. Gift - send gift to live streamer in live streaming
+10. Reward + view ads - earn beancoin
+11. iOS application
+12. User bio timeline like soul app
+13. Forum like reddit app style (able to post video, image, sticker, join thread, like, award content creator)
+14. Notification to be enhance (when user been tagged, user can click Notification Center and redirect to the group chat / forum / private chat)
+15. live streamer/ content creator dashboard to view performance of live streaming/content (earning, traffic)
